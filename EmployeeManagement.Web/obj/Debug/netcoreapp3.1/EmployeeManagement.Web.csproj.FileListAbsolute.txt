@@ -126,3 +126,5 @@ D:\Education\BlazorEmployeeTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3
 D:\Education\BlazorEmployeeTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Pages\DataBindingDemo.razor.g.cs
 D:\Education\BlazorEmployeeTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\DisplayEmployee.razor.g.cs
 D:\Education\BlazorEmployeeTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Pages\DisplayEmployee.razor.g.cs
+D:\Education\BlazorEmployeeTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditEmployee.razor.g.cs
+D:\Education\BlazorEmployeeTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Pages\EditEmployee.razor.g.cs
