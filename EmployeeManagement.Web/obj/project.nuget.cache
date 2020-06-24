@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xqx66LvLeioKlbe74c+/kJIKfNGfjpvD/bP+KXrDvEU7v0c8Niq3tZkjGy7/brfgZKWhosu6Mblj+x7BdmXfAg==",
+  "dgSpecHash": "tDw44/zHg7IJl26Fnaz5KID4t4klUP7dEoN3QsiGM7JzwBNmD/3ez+9Uvr3cVPm104G5P25gOu+O9kYmqdU2Og==",
   "success": true,
   "projectFilePath": "D:\\Education\\BlazorEmployeeTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
   "expectedPackageFiles": [
@@ -113,8 +113,7 @@
     "C:\\Users\\rpenn\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
     "C:\\Users\\rpenn\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\rpenn\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\rpenn\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\rpenn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\rpenn\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
